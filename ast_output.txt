@@ -1,0 +1,5 @@
+├─ doc
+    ├─ block
+        ├─ header #
+            ├─ inlineContent
+                ├─ inlineItem  Hola\n<EOF>
